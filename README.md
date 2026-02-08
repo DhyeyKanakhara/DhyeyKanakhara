@@ -16,7 +16,8 @@ CS undergrad at **NMIMS MPSTME, Mumbai** | Passionate about **Operating Systems*
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34C26?style=flat&logo=html5&logoColor=white)
 
 **Tools & Platforms:**  
-Git • GitHub • VS Code • Linux • MySQL • GitHub Pages
+Git • GitHub • VS Code • MySQL • Intellij
+
 
 ---
 
@@ -26,14 +27,14 @@ Git • GitHub • VS Code • Linux • MySQL • GitHub Pages
 A lightweight database engine built from scratch to understand core DBMS concepts.
 - Implements query parsing, storage, and basic indexing
 - Demonstrates understanding of file I/O and data structures
-- [View Project](https://github.com/DhyeyKanakhara/)
+  
 
 ### **CPU Scheduling Visualizer**
 A visual simulator for CPU scheduling algorithms with Gantt chart generation.
 - Simulates FCFS, SJF, SRTF, Round Robin algorithms
 - Calculates key metrics: waiting time, turnaround time
 - Helps visualize algorithmic differences for various workloads
-- [View Project](https://github.com/DhyeyKanakhara/)
+
 
 ---
 
@@ -54,8 +55,8 @@ A visual simulator for CPU scheduling algorithms with Gantt chart generation.
 
 ## 📫 Get in Touch
 
-- **Email:** [Your Email]
-- **LinkedIn:** [Your LinkedIn]
+- **Email:** [dhyey.kanakhara24@gmail.com]
+- **LinkedIn:** [https://www.linkedin.com/in/dhyey-kanakhara-56857a324/]
 - **GitHub:** [DhyeyKanakhara](https://github.com/DhyeyKanakhara)
 
 ---
